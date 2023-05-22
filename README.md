@@ -5,7 +5,8 @@ Engage in AI-powered group conversations on various subjects, assuming different
 ``The Parliament`` name inspired by the Israeli series (הפרלמנט).
 
 ![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)
-![Follow](https://img.shields.io/twitter/follow/roysadaka?label=RoySadaka&style=social)
+[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/roysadaka.svg?style=social&label=roysadaka)](https://twitter.com/roysadaka)
+
 
 # The Parliament - AI Conversational Project
 
