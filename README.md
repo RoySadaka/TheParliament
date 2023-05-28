@@ -1,4 +1,6 @@
 # 🎙️ The Parliament 🎙️
+### Rest assured we're all certified experts here 😉
+<img src="https://raw.githubusercontent.com/RoySadaka/ReposMedia/main/the_parliament/the_parliament.jpeg"  width="400" height="400">
 
 Engage in AI-powered group conversations on various subjects, assuming different personas and locations.
 
