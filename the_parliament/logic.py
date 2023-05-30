@@ -137,7 +137,7 @@ def get_gr_chatbot_history() -> list:
     messages = []
     is_pair = True
     for msg in app.metadata.conversation:
-        text = f'{app.metadata.name_to_color[msg.speaker]} {msg.speaker}:<br/>{msg.text}'
+        text = f'{app.metadata.name_to_color[msg.speaker]} {msg.speaker}:\n{msg.text}'
         if is_pair:
             messages.append([text])
         else:
